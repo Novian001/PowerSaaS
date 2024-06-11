@@ -651,6 +651,10 @@ video {
   margin-top: 70px;
 }
 
+.mb-\[100px\] {
+  margin-bottom: 100px;
+}
+
 .flex {
   display: flex;
 }
@@ -689,6 +693,11 @@ video {
 
 .h-full {
   height: 100%;
+}
+
+.h-fit {
+  height: -moz-fit-content;
+  height: fit-content;
 }
 
 .min-h-\[471px\] {
@@ -737,6 +746,11 @@ video {
 
 .w-full {
   width: 100%;
+}
+
+.w-fit {
+  width: -moz-fit-content;
+  width: fit-content;
 }
 
 .max-w-\[1280px\] {
