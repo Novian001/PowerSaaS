@@ -903,6 +903,10 @@ video {
   padding-bottom: 0.75rem;
 }
 
+.pb-\[100px\] {
+  padding-bottom: 100px;
+}
+
 .font-poppins {
   font-family: Poppins;
 }
